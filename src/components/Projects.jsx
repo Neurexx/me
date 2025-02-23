@@ -54,7 +54,7 @@ export default function Projects() {
       </p>
 
       <div className="mt-12 grid grid-cols-1 md:grid-cols-2   gap-6">
-      {projectsData.map((project: any, i: number) => {
+      {projectsData.map((project, i) => {
   return (
     <div
       key={i}
@@ -93,7 +93,7 @@ export default function Projects() {
         </Link>
 
         <div className="flex gap-2 flex-wrap">
-          {project.tech.map((t: string, i: number) => (
+          {project.tech.map((t, i) => (
             <p
               key={i}
               className="border dark:border-neutral-800 rounded-lg p-2 w-fit text-gray-400 text-xs bg-slate-200 dark:bg-transparent"

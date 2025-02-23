@@ -7,7 +7,7 @@ export default function About() {
         <p
           className={` text-black dark:text-white `}
         >
-          Hi, I'm 
+          Hi, I&apos;m 
           <span className="bg-gradient-to-r from-[#eeff00] to-[#28d2d9] text-transparent bg-clip-text p-2">
             Riaz !
           </span>
@@ -15,7 +15,7 @@ export default function About() {
 
       </div>
       <p className={`text-lg text-gray-400`}>
-        I'm a software engineer, mainly into machine learning and full stack dev, but also interested in low level systems and graphics programming.
+        I&apos;m a software engineer, mainly into machine learning and full stack dev, but also interested in low level systems and graphics programming.
       </p>
 
       
