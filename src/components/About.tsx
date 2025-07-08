@@ -15,7 +15,7 @@ export default function About() {
 
       </div>
       <p className={`text-lg text-gray-400`}>
-        I&apos;m a software engineer, mainly into machine learning and full stack dev, but also interested in low level systems and graphics programming.
+        I&apos;m a software engineer, mainly into machine learning and full stack dev, but also like to play around with game dev and low level systems.
       </p>
 
       

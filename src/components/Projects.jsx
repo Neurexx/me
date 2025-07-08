@@ -29,6 +29,17 @@ const projectsData=[
       image: "https://raw.githubusercontent.com/Neurexx/kiti/e3991ad25769f755de377780f56f6e7045432bee/public/klum.svg"
     },
     {
+      name: "Mango",
+      description: "3D Platformer game for desktop and mobile",
+      deployed: "https://github.com/Neurexx/mango",
+      github: "https://github.com/Neurexx/mango",
+      tech: [
+        "Godot"
+        
+      ],
+      image: null
+    },
+    {
         name: "Kinohunt",
         description: "A place to discover films, share reviews and recommendations, have watch parties with friends",
         
@@ -40,7 +51,7 @@ const projectsData=[
           "Pytorch"
           
         ],
-        image: "https://raw.githubusercontent.com/Neurexx/testvault/refs/heads/main/src/app/favicon.ico"
+        image: null
       }
   ]
 
