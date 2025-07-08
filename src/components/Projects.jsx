@@ -31,7 +31,7 @@ const projectsData=[
     {
       name: "Mango",
       description: "3D Platformer game (available as desktop and mobile apps)",
-      deployed: "https://github.com/Neurexx/mango",
+      deployed: "github.com/Neurexx/mango",
       github: "https://github.com/Neurexx/mango",
       tech: [
         "Godot"
