@@ -30,7 +30,7 @@ const projectsData=[
     },
     {
       name: "Mango",
-      description: "3D Platformer game for desktop and mobile",
+      description: "3D Platformer game (available as desktop and mobile apps)",
       deployed: "https://github.com/Neurexx/mango",
       github: "https://github.com/Neurexx/mango",
       tech: [
