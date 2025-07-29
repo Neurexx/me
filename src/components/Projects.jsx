@@ -29,6 +29,28 @@ const projectsData=[
       image: "https://raw.githubusercontent.com/Neurexx/kiti/e3991ad25769f755de377780f56f6e7045432bee/public/klum.svg"
     },
     {
+      name: "Stonkon",
+      description: "Social media with pub-sub",
+      deployed: "stonkon.vercel.app",
+      github: "https://github.com/Neurexx/socialmedia-backend",
+      tech: [
+        "Next.js","NestJS","MongoDB","Redis"
+        
+      ],
+      image: "https://raw.githubusercontent.com/Neurexx/socialmedia/refs/heads/main/src/app/favicon.ico"
+    },
+    {
+      name: "Showpay",
+      description: "Payment dashboard for admins",
+      deployed: "showpay.vercel.app",
+      github: "https://github.com/Neurexx/showpay",
+      tech: [
+        "Flutter","NestJS","Postgres"
+        
+      ],
+      image: null
+    },
+    {
       name: "Mango",
       description: "3D Platformer game (available as desktop and mobile apps)",
       deployed: "github.com/Neurexx/mango",
@@ -39,6 +61,7 @@ const projectsData=[
       ],
       image: null
     },
+    
     {
         name: "Kinohunt",
         description: "A place to discover films, share reviews and recommendations, have watch parties with friends",
